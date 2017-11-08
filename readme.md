@@ -1,4 +1,4 @@
-![Calculatrice fiscale](http://s3-eu-west-1.amazonaws.com/carmag-wp/carmag/wp-content/uploads/2017/11/07095224/lambo-2-790x474.jpg)
+![Calculatrice fiscale](http://s3.caradvice.com.au/thumb/960/477/wp-content/uploads/2017/11/lambo-terzo-millennio-4.jpg)
 # Projet Javascript
 
 # Calculatrice fiscale finlandaise :
