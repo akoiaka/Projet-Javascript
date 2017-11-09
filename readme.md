@@ -3,7 +3,7 @@
 
 # Calculatrice fiscale finlandaise :
 
-* Cette calculatrice est un outil qui calcule des taxes et des avantages pour vehicule donné.
+* Cette calculatrice est un outil qui calcule des taxes et des avantages pour un vehicule donné.
 * Application similaire à celle-ci : http://www.nffleet.fi/en/tax-value-calculator/
 ## Travail à faire 
 
