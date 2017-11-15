@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css" />
+    <title>TAX Calculator</title>
+</head>
+
+<body>
+<main class="container">
+
+    <h1>TAX Calculator</h1>
+<div>
+    <select id="marque">
+        <option selected>Marque</option>
+    </select>
+
+    <select id="model" name="select">
+        <option value="list">Modèle</option>
+        <option value="add" >Ajouter</option>
+        <option value="count">Voir tout</option>
+    </select>
+</div>
+    <div id="divinfos">
+        <div id="boxinfo"></div>
+        <div id="box"></div>
+    </div>
+
+    <!--cette div contiendra tout ce que le code javascript va inserer-->
+    <div id="divtotal" class="jumbotron">
+        <p id="default">TOTAL PRICE</p>
+        <p id="total"></p>
+    </div>
+
+    <script src="jquery.js"></script>
+    <script type="text/javascript" src="underscore.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous">
+
+    </script>
+</main>
+
+</body>
+
+</html>
